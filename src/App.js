@@ -13,7 +13,6 @@ function App() {
         <div className="textBox">
         <br/>
           <p>1차 프로젝트</p><br/>
-          <p>팀명: Fub</p><br/>
           <p>사이트명: Prism</p><br/>
           <p style={{fontSize:'15px'}}>이 프로젝트는 커뮤니티기반의 클라우드 펀딩 사이트 구현 입니다.<br/><br/>제가 맡은 파트는 판매리스트, 판매상세페이지, footer, header 입니다.</p>
         </div>
