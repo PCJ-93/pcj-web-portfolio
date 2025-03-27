@@ -1,3 +1,25 @@
 .portContainer {
-  
+  display: flex;
+  flex-direction: column;
+}
+
+.video-container {
+  width: 200px;
+  height: 250px;
+}
+
+
+.background-video1 {
+  width: 100%;
+  height: auto;
+}
+
+.background-video2 {
+  width: 100%;
+  height: auto;
+}
+
+.background-video3 {
+  width: 100%;
+  height: auto;
 }
