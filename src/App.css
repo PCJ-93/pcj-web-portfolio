@@ -1,25 +1,24 @@
 .portContainer {
+  width: 100%;
   display: flex;
   flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
 }
 
 .video-container {
-  width: 200px;
-  height: 250px;
+  width: 40%;
 }
 
-
 .background-video1 {
-  width: 100%;
-  height: auto;
+  width: 40%;
 }
 
 .background-video2 {
-  width: 100%;
-  height: auto;
+  width: 40%;
 }
 
 .background-video3 {
-  width: 100%;
-  height: auto;
+  width: 40%;
 }
