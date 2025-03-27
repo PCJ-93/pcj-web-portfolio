@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="portContainer">
 
-      <div className="portTitle">철중's ProjectVideos</div>
+      <div className="portTitle">철중's Project Videos</div>
 
       <div className="video-container">
         <video autoPlay loop muted className="background-video1">
